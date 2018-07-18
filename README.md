@@ -1,5 +1,5 @@
 # ntua-stochastic-processes
-Stochastic Processes Assignments for ECE Ntua Stochastic Processes Course
+Stochastic Processes Assignments for ECE NTUA 6th Semester _Stochastic Processes_ Course
 
 ## Contents 
 
